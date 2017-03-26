@@ -27,6 +27,7 @@ Si vous voulez envoyer vos modifications, il faut suivre ces étapes :
 
           git push origin <votreBranche>
 
-	.Recharger la page de votre compte github..Avant de cliquer sur le bouton Pull Request. soit sûr que vous êtes sur la branche crée tout à l'heure.
-	
+	.Recharger la page de votre compte github.
+		Avant de cliquer sur le bouton Pull Request, soyez sûr que vous êtes sur la branche crée tout à l'heure pas sur le master.
+
 	.Cliquez sur pull Request. Rédigez un message qui contient des explications sur les modif.
