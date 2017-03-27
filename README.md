@@ -27,7 +27,7 @@ Si vous voulez envoyer vos modifications, il faut suivre ces étapes :
 
 		.Fesez vos modif. et vos commits 
 		
-		  git -am "Ajouter votre commantaire sur les modif."
+		  git commit -am "Ajouter votre commantaire sur les modif."
 		
 		.Et ensuite tapez:
 
