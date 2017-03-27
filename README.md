@@ -43,3 +43,33 @@ Si vous voulez envoyer vos modifications, il faut suivre ces étapes :
 Méthode 1 :
 	
 Si vous voulez avoir accès direct au repository càd avoir les droit du "read write".Il faut envoyer votre username de votre compte github au contributeur.
+
+Le contributeur décidera à cette instant de vous ajoutez ou non comme contributeur du repository. Sinon vous appliquez la première méthode, c'est plus pratique.
+
+Si le contributeur vous accepte. Vous allez constatez que vous pouvez modifier les fichiers directement sur le repository principal.
+
+	Soit via github 
+	
+	Soit via git console :
+		
+		.Vous clonez le projet dans votre espace de travail:
+				
+			via ssh :
+
+			git clone git@github.com:zakariarhb/PFAGuideScholarManager.git
+
+			via https :
+
+			git clone https://github.com/zakariarhb/PFAGuideScholarManager.git
+		
+		.Vous pouvez donc créez des branches faire des modification et vos commits :
+			
+			git commit -am "Ajouter votre commantaire sur les modif."
+		
+		.Envoyer vos modifications avec :
+			
+			git push origin <votreBranche ou directement le master> 
+	
+		.Récuperez les modifs d'après github :
+		
+			git pull origin master
