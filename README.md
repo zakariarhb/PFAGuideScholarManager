@@ -52,7 +52,7 @@ Si le contributeur vous accepte. Vous allez constatez que vous pouvez modifier l
 	
 	Soit via git console :
 		
-		.Vous clonez le projet dans votre espace de travail:
+		.Vous clonez le projet dans votre espace de travail :
 				
 			via ssh :
 
@@ -70,6 +70,6 @@ Si le contributeur vous accepte. Vous allez constatez que vous pouvez modifier l
 			
 			git push origin <votreBranche ou directement le master> 
 	
-		.Récuperez les modifs d'après github :
+		.Récuperez directement les modifs d'après github :
 		
 			git pull origin master
