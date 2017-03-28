@@ -1,7 +1,7 @@
 # PFAGuideScholarManager
 Ce repository contient le projet du site web d'un guide d'install pour l'application Scholar Manager ...
 
-Contributing :
+# Contributing :
 
 Méthode 1 :
 
@@ -40,7 +40,7 @@ Si vous voulez envoyer vos modifications, il faut suivre ces étapes :
 
 	.Cliquez sur pull Request. Rédigez un message qui contient des explications sur les modif.
 
-Méthode 1 :
+Méthode 2 :
 	
 Si vous voulez avoir accès direct au repository càd avoir les droit du "read write".Il faut envoyer votre username de votre compte github au contributeur.
 
